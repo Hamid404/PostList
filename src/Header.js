@@ -8,7 +8,7 @@ const Header =()=>{
     </h1>
     <p>Can You be success? Why not?</p>
     <br></br>
-    <p>Than follow my 10 suggestions</p>
+    <p>Than follow my 10 suggestions.</p>
   </div>
 }
 
