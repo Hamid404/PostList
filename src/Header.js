@@ -2,12 +2,14 @@ import React from "react";
 import "./style.css";
 
 const Header =()=>{
-    return <h1 className={"header"}>
+    return <div className={"header"}>
+    <h1 >
          Hamid Post Page
-         <p>Can You be success? Why not?</p>
-         <br></br>
-         <p>Than follow my 10 suggestions</p>
     </h1>
+    <p>Can You be success? Why not?</p>
+    <br></br>
+    <p>Than follow my 10 suggestions</p>
+  </div>
 }
 
 export default Header
